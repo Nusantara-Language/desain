@@ -1,3 +1,3 @@
 # Desain
 
-Desain bahasa nusantara
+Desain bahasa pemrograman nusantara
