@@ -1,0 +1,14 @@
+- bilangan
+- teks
+- ulang
+- jika
+- atau
+- fungsi
+- kembalikan
+- dan
+- atau
+- bukan
+- kembali
+- kosong
+- muat
+- kelas
